@@ -1,6 +1,6 @@
 {
   "name": "@taistudio/n8n-nodes-mindwtr",
-  "version": "26.9.2",
+  "version": "26.9.3",
   "description": "n8n community node for Mindwtr - Free GTD to-do app (Local API + Self-hosted Cloud API)",
   "license": "MIT",
   "homepage": "https://github.com/TaiStudio/n8n-nodes-mindwtr#readme",
